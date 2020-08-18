@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9de1b57040aa8f54fe3696c7036aeaa4",
+    "revision": "d73e143a7e9306a6876321a46009cf24",
     "url": "/lingphil/index.html"
   },
   {
-    "revision": "06e153129424c17ae9d2",
+    "revision": "46d8701cb8a217aa72a2",
     "url": "/lingphil/static/css/main.050523cc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lingphil/static/js/2.e3352882.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06e153129424c17ae9d2",
-    "url": "/lingphil/static/js/main.67487f63.chunk.js"
+    "revision": "46d8701cb8a217aa72a2",
+    "url": "/lingphil/static/js/main.2462dc81.chunk.js"
   },
   {
     "revision": "0f8525df715ae8771275",

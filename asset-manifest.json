@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lingphil/static/css/main.050523cc.chunk.css",
-    "main.js": "/lingphil/static/js/main.67487f63.chunk.js",
-    "main.js.map": "/lingphil/static/js/main.67487f63.chunk.js.map",
+    "main.js": "/lingphil/static/js/main.2462dc81.chunk.js",
+    "main.js.map": "/lingphil/static/js/main.2462dc81.chunk.js.map",
     "runtime-main.js": "/lingphil/static/js/runtime-main.c792cbe2.js",
     "runtime-main.js.map": "/lingphil/static/js/runtime-main.c792cbe2.js.map",
     "static/js/2.e3352882.chunk.js": "/lingphil/static/js/2.e3352882.chunk.js",
     "static/js/2.e3352882.chunk.js.map": "/lingphil/static/js/2.e3352882.chunk.js.map",
     "index.html": "/lingphil/index.html",
-    "precache-manifest.b15be49793b4aa21666f9131afa63d4c.js": "/lingphil/precache-manifest.b15be49793b4aa21666f9131afa63d4c.js",
+    "precache-manifest.dff2c21a78f3bc6af156e5fd01a4c875.js": "/lingphil/precache-manifest.dff2c21a78f3bc6af156e5fd01a4c875.js",
     "service-worker.js": "/lingphil/service-worker.js",
     "static/css/main.050523cc.chunk.css.map": "/lingphil/static/css/main.050523cc.chunk.css.map",
     "static/js/2.e3352882.chunk.js.LICENSE.txt": "/lingphil/static/js/2.e3352882.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c792cbe2.js",
     "static/js/2.e3352882.chunk.js",
     "static/css/main.050523cc.chunk.css",
-    "static/js/main.67487f63.chunk.js"
+    "static/js/main.2462dc81.chunk.js"
   ]
 }
