@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lingphil/static/css/main.050523cc.chunk.css",
+    "main.js": "/lingphil/static/js/main.28442b25.chunk.js",
+    "main.js.map": "/lingphil/static/js/main.28442b25.chunk.js.map",
+    "runtime-main.js": "/lingphil/static/js/runtime-main.c792cbe2.js",
+    "runtime-main.js.map": "/lingphil/static/js/runtime-main.c792cbe2.js.map",
+    "static/js/2.f42500f1.chunk.js": "/lingphil/static/js/2.f42500f1.chunk.js",
+    "static/js/2.f42500f1.chunk.js.map": "/lingphil/static/js/2.f42500f1.chunk.js.map",
+    "index.html": "/lingphil/index.html",
+    "precache-manifest.89ac9c9aa1b9fe794a9a92677d020a6d.js": "/lingphil/precache-manifest.89ac9c9aa1b9fe794a9a92677d020a6d.js",
+    "service-worker.js": "/lingphil/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/lingphil/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.f42500f1.chunk.js.LICENSE.txt": "/lingphil/static/js/2.f42500f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c792cbe2.js",
+    "static/js/2.f42500f1.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.28442b25.chunk.js"
+  ]
+}
